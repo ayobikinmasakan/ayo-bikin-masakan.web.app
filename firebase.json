@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ayo-bikin-masakan",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
